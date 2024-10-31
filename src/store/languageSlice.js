@@ -1,4 +1,3 @@
-// src/features/language/languageSlice.js
 import { createSlice } from '@reduxjs/toolkit';
 
 const initialState = {

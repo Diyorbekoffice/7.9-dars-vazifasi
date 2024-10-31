@@ -1,4 +1,3 @@
-// src/components/App.js
 import React, { useState, useRef } from 'react';
 import { useSelector, useDispatch } from 'react-redux';
 import { addStudent, updateStudent, deleteStudent } from './store/usersSlice';
